@@ -1,6 +1,8 @@
 # NRI
 Many scholars and researchers have reached out about the **Network Relationship Inventory (NRI)- Chinese Translation Scale** that I have created and validated. The purpose of this page is to provide some information about the scale. Please feel free to email me jennifermadisonwang@gmail.com with any questions. 
 
+- Please refer to [Google Scholar](https://scholar.google.com/citations?user=F3Rz0f0AAAAJ&hl=en) for more information about my academic work and psychometric research. 
+
 ### Disclaimer: 
 - This scale is intended for academic and research purposes only. 
 - This scale is NOT intended for clinical diagnostic or medical assessment purposes. 
